@@ -1,8 +1,6 @@
 <?php
-/*
-  PHP contact form script
+
  
-*/
 
 /***************** Configuration *****************/
 
